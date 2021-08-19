@@ -1,0 +1,7 @@
+/bin/
+/.vscode/
+/dependencies/
+.DS_Store
+.classpath
+save_game.dat
+highscores.dat
